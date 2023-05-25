@@ -3,11 +3,11 @@
     padding: 0;
     margin: 0;
 }
-
+/*seting background color for body*/
 body {
     background-color: #d9dcd6;
 }
-
+/*header styling*/
 .header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -23,7 +23,7 @@ body {
 .header h1 .seo {
     color: #d9dcd6;
 }
-
+/*nav links styling*/
 .header nav {
     padding-top: 15px;
     margin-right: 20px;
@@ -49,7 +49,7 @@ a {
 p {
     font-size: 16px;
 }
-
+/*object- image styling*/
 .hero {
     height: 800px;
     width: 100%;
@@ -85,55 +85,57 @@ p {
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     background-color: #2589bd;
 }
-
+/*sections thats on the side using aside tag styling*/
+/*lead generation section*/
 .benefit-lead {
     margin-bottom: 32px;
     color: #ffffff;
 }
-
+/*brand awareness section*/
 .benefit-brand {
     margin-bottom: 32px;
     color: #ffffff;
 }
-
+/*cost management section*/
 .benefit-cost {
     margin-bottom: 32px;
     color: #ffffff;
 }
-
+/*lead generation header styling section*/
 .benefit-lead h3 {
     margin-bottom: 10px;
     text-align: center;
 }
-
+/*brand awareness header styling section*/
 .benefit-brand h3 {
     margin-bottom: 10px;
     text-align: center;
 }
-
+/*cost management header styling section*/
 .benefit-cost h3 {
     margin-bottom: 10px;
     text-align: center;
 }
-
+/*lead generation image styling section*/
 .benefit-lead img {
     display: block;
     margin: 10px auto;
     max-width: 150px;
 }
-
+/*brand awareness image styling section*/
 .benefit-brand img {
     display: block;
     margin: 10px auto;
     max-width: 150px;
 }
-
+/*cost management image styling section*/
 .benefit-cost img {
     display: block;
     margin: 10px auto;
     max-width: 150px;
 }
-
+/*sections styling*/
+/*search-engine-optimization section*/
 .search-engine-optimization {
     margin-bottom: 20px;
     padding: 50px;
@@ -142,7 +144,7 @@ p {
     background-color: #0072bb;
     color: #ffffff;
 }
-
+/*online-reputation-management section*/
 .online-reputation-management {
     margin-bottom: 20px;
     padding: 50px;
@@ -152,6 +154,7 @@ p {
     color: #ffffff;
 }
 
+/*social-media-marketing section*/
 .social-media-marketing {
     margin-bottom: 20px;
     padding: 50px;
@@ -160,34 +163,34 @@ p {
     background-color: #0072bb;
     color: #ffffff;
 }
-
+/*search-engine-optimization image styling*/
 .search-engine-optimization img {
     max-height: 200px;
 }
-
+/*online-reputation-management image styling*/
 .online-reputation-management img {
     max-height: 200px;
 }
-
+/*social-media-marketing image styling*/
 .social-media-marketing img {
     max-height: 200px;
 }
-
+/*search-engine-optimization header styling section*/
 .search-engine-optimization h2 {
     margin-bottom: 20px;
     font-size: 36px;
 }
-
+/*online-reputation-management header styling section*/
 .online-reputation-management h2 {
     margin-bottom: 20px;
     font-size: 36px;
 }
-
+/*social-media-marketing header styling section*/
 .social-media-marketing h2 {
     margin-bottom: 20px;
     font-size: 36px;
 }
-
+/*footer styling*/
 .footer {
     padding: 30px;
     clear: both;

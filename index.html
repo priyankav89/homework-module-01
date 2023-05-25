@@ -2,16 +2,24 @@
 <html lang="en-us">
 <head>
     <meta charset="UTF-8" />
+     <!--Link to style sheet-->
+    <!--The rel attribute specifies relationship between linked documents-->
+    <!--The href attribute creates a link to another file or webpage-->
     <link rel="stylesheet" href="./assets/css/style.css">
+   <!--title of the webpage-->
     <title>Horiseon Website</title>
 </head>
-
+<!--body section,displays body/content that is in the webpage-->
 <body>
+    <!--header section that displays web title with nav buttons-->
     <header class="header">
         <h1>Hori<span class="seo">seo</span>n</h1>
+        <!--navigators to different sections-->
         <nav>
+            <!-- Unordered list -->
             <ul>
                 <li>
+                    <!-- The href attribute is used with <a> to specify a URL that navigates to specific sections in this webpage-->
                     <a href="#search-engine-optimization">Search Engine Optimization</a>
                 </li>
                 <li>
@@ -23,8 +31,11 @@
             </ul>
         </nav>
         </header>
+        <!--object class for the image-->
     <object class="hero"></object>
+    <!--main section-->
     <main class="content">
+        <!--section for search-engine-optimization-->
         <section id="search-engine-optimization" class="search-engine-optimization">
             <img src="./assets/images/search-engine-optimization.jpg" alt="search-engine-optimization"  class="float-left" />
             <h2>Search Engine Optimization</h2>
@@ -32,6 +43,7 @@
                 The dominance of mobile internet use means that users are searching for the right business as they travel, shop, or sit on their couch at home. Search Engine Optimization (SEO) allows you to increase your visibility and find the right customers for your business.
             </p>
         </section>
+        <!--section for online-reputaion-management-->
         <section id="online-reputation-management" class="online-reputation-management">
             <img src="./assets/images/online-reputation-management.jpg" alt="online-reputation-management"  class="float-right" />
             <h2>Online Reputation Management</h2>
@@ -39,6 +51,7 @@
                 The web is full of opinions, and some of these can be negative. Social media allows anyone with an internet connection to say whatever they want about your business. Online Reputation Management gives you the control over what potential customers see when they search for your business.
             </p>
         </section>
+        <!--section for social-media-marketing-->
         <section id="social-media-marketing" class="social-media-marketing">
             <img src="./assets/images/social-media-marketing.jpg" alt="social-media-marketing" class="float-left" />
             <h2>Social Media Marketing</h2>
@@ -47,9 +60,11 @@
             </p>
         </section>
     </main>
+    <!--section that displays on the side using aside-->
     <section class="benefits">
         <aside class="benefit-lead">
             <h3>Lead Generation</h3>
+             <!-- The alt attribute specifies the alternative text for an image in this its lead-generation-->
             <img src="./assets/images/lead-generation.png" alt="lead-generation"/>
             <p>
                 Inbound strategies for lead generation require less work for your business, bringing customers directly to your website.
@@ -57,6 +72,7 @@
         </aside>
         <aside class="benefit-brand">
             <h3>Brand Awareness</h3>
+             <!-- The alt attribute specifies the alternative text for an image in this its brand-awareness-->
             <img src="./assets/images/brand-awareness.png" alt="brand-awareness" />
             <p>
                 Users find your business through paid and organic searches, increasing the search ranking and visibility for your business.
@@ -64,12 +80,14 @@
         </aside>
         <aside class="benefit-cost">
             <h3>Cost Management</h3>
+             <!-- The alt attribute specifies the alternative text for an image in this its cost-management-->
             <img src="./assets/images/cost-management.png" alt="cost-management"/>
             <p>
                 As the search ranking for your business increases, your advertising costs decrease, and you no longer need to advertise your page.
             </p>
         </aside>
     </section>
+    <!--footer section-->
     <footer class="footer">
         <h2>Made with ❤️️ by Horiseon</h2>
         <p>
