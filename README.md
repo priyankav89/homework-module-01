@@ -4,15 +4,16 @@
 
 Creating a codebase that follows accessibility standards that the site is optimized for search engines.
 
-DEPLOYED WEBPAGE LINK:
+##DEPLOYED WEBPAGE LINK:
 
 [HORISEON WEBSITE](https://priyankav89.github.io/homework-module-01/)
 
 ##INSTALLATION
 
-Upload index.html, license.txt, and assets folder to the deployed webserver. The assets folder contains images and CSS files.
+1.Upload all files index.html,assets folder with images and style.css and READMEfile to Github repository from the local server.
 
-The deployed website linked above was deployed using GitHub Pages.
+2.Then deploy the webpage in Github.
+
 
 ##USAGE
 
