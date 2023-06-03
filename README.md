@@ -1,8 +1,18 @@
 #HORISEON WEBSITE
 
-##DESCRIPTIOM
+##DESCRIPTION
 
 Creating a codebase that follows accessibility standards that the site is optimized for search engines.
+
+DEPLOYED WEBPAGE LINK:
+
+[HORISEON WEBSITE](https://priyankav89.github.io/homework-module-01/)
+
+##INSTALLATION
+
+Upload index.html, license.txt, and assets folder to the deployed webserver. The assets folder contains images and CSS files.
+
+The deployed website linked above was deployed using GitHub Pages.
 
 ##USAGE
 
@@ -11,6 +21,17 @@ when you access the website , you can see three navigation topics (search engine
 ##SCREENSHOT
 
 ![screenshot](./assets/images/01-html-css-git-homework-demo.png)
+
+
+#CREDITS
+
+REFERENCES:
+
+https://www.w3schools.com/html/html5_semantic_elements.asp
+
+https://www.w3schools.com/html/html_css.asp
+
+
 
 ##LICENSE
 
